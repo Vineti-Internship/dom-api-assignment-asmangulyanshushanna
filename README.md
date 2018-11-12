@@ -21,6 +21,11 @@
 
 __There are two possible grades for this assignment: P and F (Pass, Fail)__
 
-## Grade: __To Be Added__
+## Grade: P
+
+## Feedback
+- Do not use `var`
+- Follow a consistent code style
+    - [For Reference](https://github.com/airbnb/javascript)
 
 \* DO NOT CHANGE THIS DOCUMENT, the reviewer will check the homework and add the grade
